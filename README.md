@@ -1,0 +1,2 @@
+# Practicas_LaboratorioComputacionGrafica
+Practicas del Laboratorio de Computacion Grafica
